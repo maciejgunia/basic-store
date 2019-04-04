@@ -1,5 +1,4 @@
 import { Store } from "./store/store";
-
 import { reducer } from "./store/reducers";
 
 const input = document.querySelector("input") as HTMLInputElement;
